@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "nine",
+			"path": "..\\IEEE_Avenir\\public\\js\\3dIcons\\nine"
+		},
+		{
+			"name": "AR",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AR"
+	}
+}
